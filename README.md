@@ -23,5 +23,6 @@ Install the dependencies and start the server.
 git clone https://github.com/FricoSimon/nodemailer
 cd nodemailer
 npm install
+npm start
 ```
 
